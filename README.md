@@ -1,6 +1,4 @@
-<p align="center">
 # Hi there, I'm Mohammed Shazaan Aarish 👋
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&width=620&lines=Product+Architect+%26+Mobile+Engineer;Flutter+%26+Android+Native+Specialist;Architecting+Empathetic%2C+Behavioral+Tech;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
