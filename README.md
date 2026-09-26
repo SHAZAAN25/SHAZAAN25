@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🌿 Clarity — Smoking Coach</h3>
+        <h3 align="center">🌿 Clarity — Anti-Smoking Coach</h3>
         <p align="center">
           <em>A quiet, privacy-first behavioral reduction companion engineered on cognitive-behavioral cue extinction and deterministic health economics.</em>
         </p>
