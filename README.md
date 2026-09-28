@@ -102,5 +102,5 @@
 </p>
 
 <p align="center">
-  <em>"Driven by purpose, built with precision."</em>
+  <em>"Driven by purpose, crafted with precision."</em>
 </p>
