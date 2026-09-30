@@ -44,6 +44,22 @@
         </ul>
       </td>
     </tr>
+    <tr>
+      <td colspan="2" valign="top">
+        <h3 align="center">🛡️ Veyra — Systems Performance Intelligence</h3>
+        <p align="center">
+          <em>Zero-telemetry Windows systems diagnostics, automated performance profiling, and high-frequency hardware metrics collector.</em>
+        </p>
+        <p align="center">
+          <a href="https://github.com/SHAZAAN25/Veyra"><img src="https://img.shields.io/badge/View_Project-Veyra-00B4D8?style=for-the-badge&logo=github&logoColor=white" alt="View Veyra" /></a>
+        </p>
+        <ul>
+          <li><b>Zero-Telemetry & Privacy-First:</b> 100% on-device execution, privileged IPC separation, and zero cloud tracking.</li>
+          <li><b>High-Fidelity Telemetry:</b> Real-time hardware/network metrics collection, SQLite WAL compaction, and incident graph analysis.</li>
+          <li><b>Engineered Reliability:</b> Rigorous test harness with 200+ automated unit, integration, and chaos simulation tests.</li>
+        </ul>
+      </td>
+    </tr>
   </table>
 </div>
 
